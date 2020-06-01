@@ -2,8 +2,9 @@ Gift Store
 
 Study Project 
 
+Flexbox
+@media
+
 Adaptiv:
 1440px
-1024px
-768px
-320px
+320-767 px
