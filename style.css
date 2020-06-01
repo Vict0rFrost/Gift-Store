@@ -41,11 +41,12 @@ html {
 }
 .header__button {
 	margin-right: 34px;
+}
+.header__button_text {
+	background-color: white;
 	border: 1px solid #F7941E;
 	box-sizing: border-box;
 	border-radius: 5px;
-}
-.header__button_text {
 	font-size: 18px;
 	line-height: 22px;
 	display: flex;
