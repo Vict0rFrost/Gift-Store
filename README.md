@@ -6,5 +6,5 @@ Flexbox
 @media
 
 Adaptiv:
-1440px
-320-767 px
+  1440px
+  320-767 px
